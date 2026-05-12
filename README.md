@@ -1,4 +1,4 @@
-# TalentLens AI Resume Screening
+# AI Resume Screening
 
 A polished full-stack starter for an AI resume screening website based on your page flow:
 
